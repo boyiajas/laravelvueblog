@@ -2,8 +2,26 @@
 
 <h2>Steps To Run this Dockrized Project:</h2>
 
-<b><p>1. clone the repository</p>
+<p>1. clone the repository</p>
 
-<p>2. build using the command: sudo docker-compose build</p>
+<p>2. build using the command: <b>sudo docker-compose build</b></p>
 
-<p>3. Spin up a container from the Image created with the command: sudo docker-compose up</b></p>
+<p>3. Spin up a container from the Image created with the command: <b>sudo docker-compose up</b></p>
+
+<p>4. You can access the website from <b>localhost:8008</b></p>
+<br/>
+<h5>See The Admin Login Below:</h5>
+username: boyiajas@gmail.com
+password: gospel123
+
+<p>5. You can access the phpmyadmin from <b>localhost:3310</b></p>
+<br/>
+<h5>See The PhpMYAdmin Login Below:</h5>
+username: root
+password: root
+<br/>
+
+
+
+
+
